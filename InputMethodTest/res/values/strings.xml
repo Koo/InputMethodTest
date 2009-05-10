@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">InputMethodTest</string>
+<string name="lavel_input_string">Normal Input Type</string>
+<string name="lavel_input_number">Number Input</string>
+<string name="label_input_search">Search Action Input</string>
+</resources>
